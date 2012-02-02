@@ -1,5 +1,5 @@
 Gohan::Application.routes.draw do
-  get "restaurants/index"
+  resources :restaurants, :only => [ :index ]
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
