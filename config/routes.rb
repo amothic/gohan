@@ -1,4 +1,6 @@
 Gohan::Application.routes.draw do
+  get "restaurants/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
