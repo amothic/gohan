@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: ハリーズ
+  taste: 5
+  cost_effective: 4
+
+two:
+  name: 上間天ぷら弁当店
+  taste: 3
+  cost_effective: 5
+
+three:
+  name: 麺あがり
+  taste: 4
+  cost_effective: 3
